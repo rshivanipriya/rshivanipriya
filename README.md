@@ -82,13 +82,13 @@
 
 
 ### Medium Article  
-Check out my article on Medium about fine-tuning Language Models on a CPU -->[Article link ](https://medium.com/@rshivanipriya/revolutionizing-tech-support-with-intel-ai-toolkits-and-oneapi-4cf7027909af)  
+Check out my article on Medium about Fine-tuning Large Language Models on a CPU -->[Article link ](https://medium.com/@rshivanipriya/revolutionizing-tech-support-with-intel-ai-toolkits-and-oneapi-4cf7027909af)  
   
 
 
 
 ### LinkedIn Article  
-Take a look at my LinkedIn article about the role of mathematics in AI --> [Article link](https://www.linkedin.com/pulse/behind-scenes-ai-essential-role-math-driving-linear-algebra-priya-r-popic/?trackingId=ZO02M%2FQwR3uCzJdRKznI6w%3D%3D)  
+Take a look at my LinkedIn article about the Role of mathematics in AI --> [Article link](https://www.linkedin.com/pulse/behind-scenes-ai-essential-role-math-driving-linear-algebra-priya-r-popic/?trackingId=ZO02M%2FQwR3uCzJdRKznI6w%3D%3D)  
   
 
 <br/>  
