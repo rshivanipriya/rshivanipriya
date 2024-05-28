@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Shivani, a full-time AI Engineer 👨‍💻 GenAI Enthusiast🚀 </div>  
+### <div align="center">I'm Shivani, a full-time AI Engineer 👨‍💻 working remotely since 2022 🚀 </div>  
   <br>
 
 - Deeply interested and experienced in generative AI🤖  
@@ -22,7 +22,7 @@
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
+<table><tr><td valign="top" width="50%">
 
 
 
@@ -77,16 +77,19 @@
 <br/>  
 
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=rshivanipriya&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
 
 ## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
+
+
+### Medium Article  
+Check out my article on Medium about fine-tuning Language Models on a CPU -->[Article link ](https://medium.com/@rshivanipriya/revolutionizing-tech-support-with-intel-ai-toolkits-and-oneapi-4cf7027909af)  
+  
+
+
+
+### LinkedIn Article  
+Take a look at my LinkedIn article about the role of mathematics in AI --> [Article link](https://www.linkedin.com/pulse/behind-scenes-ai-essential-role-math-driving-linear-algebra-priya-r-popic/?trackingId=ZO02M%2FQwR3uCzJdRKznI6w%3D%3D)  
+  
 
 <br/>  
 
@@ -104,3 +107,5 @@ If things goes well, this section should automatically be replaced by a list of 
 
 <br />
 
+----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
