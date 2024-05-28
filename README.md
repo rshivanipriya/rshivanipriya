@@ -106,6 +106,3 @@ Take a look at my LinkedIn article about the Role of mathematics in AI --> [Arti
 
 
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
