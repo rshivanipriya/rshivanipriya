@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Shivani, a full-time AI Engineer 👨‍💻 working remotely since 2022 🚀 </div>  
+### <div align="center">I'm Shivani, a full-time AI Engineer 👨‍💻GenAI Enthusiast 🚀 </div>  
   <br>
 
 - Deeply interested and experienced in generative AI🤖  
