@@ -4,7 +4,7 @@
   
 
 ### <div align="center">I'm Shivani, a full-time AI Engineer 👨‍💻 working remotely since 2022 🚀 </div>  
-  
+  <br>
 
 - Deeply interested and experienced in generative AI🤖  
   
@@ -104,5 +104,3 @@ If things goes well, this section should automatically be replaced by a list of 
 
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
